@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the Perception, Actuation, Control, and Network (PACK) Lab！
 
-The mission of the PACK Lab is to ...
+The mission of the PACK Lab is to resolve real-world problems related to perception, actuation, control, and network.
 
 ### Location
 
