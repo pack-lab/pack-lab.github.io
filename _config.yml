@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PACK Lab"
-  avatar           : "profile.png"
+  avatar           : "PACK-logo.png"
   bio              : "The mission of the PACK Lab is to resolve real-world problems related to perception, actuation, control, and network. "
   location         : "Long Beach, California"
   employer         :
