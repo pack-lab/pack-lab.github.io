@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the PACK Lab!
 
-The word "PACK" stands for Perception, Actuation, Control, and Network, which are the major components of the research conducted in this lab.
+The word "PACK" is the abbreviation of Perception, Actuation, Control, and Network. "PACK" are the major components of the research conducted in this lab. Pack is also used in phrase "pack of wolves", which refers to the collective behavior of wolves.
 
 ### The Grand Challenges
 This world is facing many challenges, such as food security, traffic congestion, the aging population, human resources shortage, and insufficient capability of production.
@@ -29,7 +29,7 @@ Inspired by the collective animal behaviors in nature, people realized that comm
 
 Each agent can be a robot, ground vehicle, spaceship, satellite, aerial vehicle, submarine, water surface vessel, etc. Compared to single-agent systems, multi-agent systems have many advantages, such as flexibility, efficiency, robustness, affordability, and improved operational capability.
 
-The lab is named "PACK," which not only stands for perception, actuation, control, and network but also stands for collaboration like a pack of wolves.
+<!-- The lab is named "PACK," which not only stands for perception, actuation, control, and network but also stands for collaboration like a pack of wolves. -->
 
 ### Location
 ECS-215A
