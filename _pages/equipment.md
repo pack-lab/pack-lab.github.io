@@ -17,12 +17,12 @@ RealSense D455
 ### Multi-Spectral Camera
 MicaSense RedEdge Multispectral Camera
 
+### Drone Swarm
+
+### Ground Vehicle Fleet
+
 ### Quadrupedal Robot
 (Coming soon)
 
 ### Collaborative Robot Arm
 (Coming soon)
-
-### Drone Swarm
-
-### Ground Vehicle Fleet
