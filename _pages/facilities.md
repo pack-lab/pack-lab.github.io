@@ -12,7 +12,7 @@ Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RT
 Marvelmind Super-MP-3D (±2cm accuracy)
 
 ### Depth Camera
-RealSense D455
+RealSense D435i, D455
 
 ### Multi-Spectral Camera
 MicaSense RedEdge Multispectral Camera
@@ -22,11 +22,12 @@ MicaSense RedEdge Multispectral Camera
 ### Cart-Inverted-Pendulum
 
 ### Drone Swarm
+DJI Tello
 
 ### Ground Vehicle Fleet
 
 ### Quadrupedal Robot
 (Coming soon)
 
-### Collaborative Robot Arm
-(Coming soon)
+### Robot Manipulators
+Dobot MG400 (Precision: ±0.05mm)
