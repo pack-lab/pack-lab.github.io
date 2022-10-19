@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Major Equipment"
-permalink: /equipment/
+title: "Major Facilities"
+permalink: /facilities/
 author_profile: true
 ---
 
