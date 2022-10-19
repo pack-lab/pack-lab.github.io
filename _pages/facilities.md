@@ -9,7 +9,7 @@ author_profile: true
 Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RTX A4500
 
 ### High-Precision Indoor 3D Positioning System
-Marvelmind Super-MP-3D (±2cm accuracy)
+Marvelmind Super-MP-3D (Accuracy: ±2cm)
 
 ### Depth Camera
 RealSense D435i, D455
