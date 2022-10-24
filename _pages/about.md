@@ -32,7 +32,7 @@ Each agent can be a robot, ground vehicle, spaceship, satellite, aerial vehicle,
 <!-- The lab is named "PACK," which not only stands for perception, actuation, control, and network but also stands for collaboration like a pack of wolves. -->
 
 ### Location
-ECS-215A
+ECS-215A, CSULB
 
 ### Resesarch Areas
 * System and Control Theory
