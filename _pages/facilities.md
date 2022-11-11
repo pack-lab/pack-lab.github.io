@@ -15,7 +15,7 @@ OptiTrack 8 Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
 ### High-Precision Indoor 3D Positioning System
 Marvelmind Super-MP-3D (Accuracy: ±2cm)
 
-### Depth Camera
+### Depth Cameras
 RealSense D435i, D455
 
 ### Drone Swarm
