@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Computational Platform
-Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RTX A4500
+Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RTX A4500    
 Dell XPS Desktops: CPU: Intel i7-12700, GPU: Nvidia GeForce RTX 3090
 
 ### High-Precision Optical Tracking System
@@ -25,7 +25,7 @@ DJI Tello (16 drones)
 Clearpath Robotics TurtleBot 4 Lite Robots
 
 ### Robot Manipulators
-xArm Lite 6 (6-axis, precision: ±0.2mm)
+xArm Lite 6 (6-axis, precision: ±0.2mm)    
 Dobot MG400 (4-axis, precision: ±0.05mm)
 
 ### Parallel Robot
