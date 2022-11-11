@@ -18,10 +18,6 @@ Marvelmind Super-MP-3D (Accuracy: ±2cm)
 ### Depth Camera
 RealSense D435i, D455
 
-### Parallel Robot
-
-### Cart-Inverted-Pendulum
-
 ### Drone Swarm
 DJI Tello (16 drones)
 
@@ -31,3 +27,7 @@ Clearpath Robotics TurtleBot 4 Lite Robots
 ### Robot Manipulators
 xArm Lite 6 (6-axis, precision: ±0.2mm)
 Dobot MG400 (4-axis, precision: ±0.05mm)
+
+### Parallel Robot
+
+### Cart-Inverted-Pendulum
