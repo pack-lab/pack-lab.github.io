@@ -24,3 +24,6 @@ main:
 
   - title: "News"
     url: /news/
+
+  - title: "Wiki"
+    url: https://pack-lab.gitlab.io/lab-wiki/
