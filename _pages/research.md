@@ -5,4 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-### Transportation
+### Collaborative and Optimized Transportation
+
+### Cooperative Manipulation
