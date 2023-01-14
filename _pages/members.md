@@ -7,7 +7,7 @@ author_profile: true
 
 ### Principal Investigator
 
-Tairan Liu, Ph.D.
+[Tairan Liu](https://liutairan.github.io), Ph.D.
 
 ### Graduate Students
 
