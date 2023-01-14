@@ -41,6 +41,8 @@ Inspired by the collective animal behaviors in nature, people realized that comm
 ### Location
 ECS-215A, California State University, Long Beach
 
+---
+
 ### Resesarch Areas
 * System and Control Theory
 * Multi-Agent / Robot System
@@ -53,6 +55,8 @@ ECS-215A, California State University, Long Beach
 * Robotics
 * Applications or intersections of the above areas:
   * Smart farming, precision agriculture, farm management, livestock management, aquaculture management
-  * Intelligent transportation, ground / low-altitude traffic control, smart city, connected vehicles, urban air mobility, eVTOL
-  * Multi-robot task allocation, smart manufacturing / construction, surgery, operation
+  * Intelligent transportation, ground/low-altitude traffic control, smart city, connected vehicles, urban air mobility, eVTOL
+  * Multi-robot task allocation, smart manufacturing/construction, surgery, operation
   * Communication networks, social networks
+
+---
