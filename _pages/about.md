@@ -47,10 +47,8 @@ ECS-215A, California State University, Long Beach
 * System and Control Theory
 * Multi-Agent / Robot System
 * Cyber-Physical System
-* Complex Network
-* Large-Scale Networked System
+* Networked System
 * Cooperative Control
-* Distributed System / Algorithm
 * Human-Robot / Swarm Interaction
 * Robotics
 * Applications or intersections of the above areas:
