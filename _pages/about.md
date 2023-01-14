@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the PACK Lab!
 
-The word "PACK" is the abbreviation of Perception, Actuation, Control, and Network. "PACK" are the major components of the research conducted in this lab. Pack is also used in phrase "pack of wolves", which refers to the collective behavior of wolves.
+*The word "PACK" is the abbreviation of Perception, Actuation, Control, and Network. "PACK" are the major components of the research conducted in this lab. Pack is also used in phrase "pack of wolves", which refers to the collective behavior of wolves.*
 
 ### The Grand Challenges
 This world is facing many challenges, such as food security, traffic congestion, the aging population, human resources shortage, and insufficient capability of production.
