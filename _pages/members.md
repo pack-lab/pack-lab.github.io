@@ -18,4 +18,5 @@ Alexander Wang, MS, 2022 - 2023
 * Mitchell Hein, 2023
 * Adam Nguyen, 2022 - 2023
 * Josh Pastizzo, 2022 - 2023
+* Jocelyne Valdivia 2022 - 2023
 * Juan Rodríguez, 2022 - 2023
