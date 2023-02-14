@@ -20,21 +20,11 @@ Welcome to the PACK Lab!
 This world is facing many challenges, such as food security, traffic congestion, the aging population, human resources shortage, and insufficient capability of production.
 
 ### Current Robot-Based Solutions
-To solve these challenges, people are using more and more robots to assist with traditional labor-intensive tasks. In precision agriculture, drones are widely used to replace the field data collection process by a human. In manufacturing, robot arms can provide much higher production.
+To solve these challenges, more and more robots are applied to assist with traditional labor-intensive tasks. For example, drones are widely used to collect field data in precision agriculture to replace traditional human data collection.
+There is no doubt that the robot-based solution has many strengths with low fault rate, high efficiency, great precision, and endurance. Importantly, robots can replace humans to work in hazardous environments. However, robots are not perfect so far. Current robots have limitations. For example, some robots can only carry out specific objectives. And some robots need detailed path planning that may conflict with others if multiple robots are in the same workspace. So, how do we break through these limitations?
 
-There is no doubt that the robot-based solution has many strengths, such as low fault rate, high efficiency, great precision, can work 24/7, won't get bored with repetitive tasks, and can work in hazardous environments. But the weaknesses are also very obvious, which includes limited capability, can only carry out specific objective, need for detailed path planning, and may conflict with each other if multiple are in the same workspace. So, how do we solve these problems?
-
-### As a PACK
-In nature, collective animal behaviors have played an important role in defending against prey, searching for food, and long-distance migration. Examples include colonies of ants or bees, flocks of birds, schools of fish, herds of antelopes, and packs of wolfs. A variety of prey animals use aggregation as a protection against predation. A prey animal in aggregation may be protected from predation by active mechanisms (detection of predators, confusion of predators, and direct counterattack against predators), passive mechanisms (statistical lowering of the risk of capture by cover seeking among group members, the swamping of predators, and the advertisement for a noxious quality), or both. Insects can carry more resources per individual per unit of time than a lone individual or successfully locate the resource with sequential group behavior that increases an individual's fitness. When birds travel long distances in groups, they reduce the energetic demands, increase navigational accuracy, and favor group foraging at migratory halts.
-
-<!-- In collective animal behaviors, each individual influences the group behavior by sensing the environment, communicating and exchanging information with other individuals or the environment, making decisions, and taking action. In most cases, the behaviors are distributed and decentralized since each biological individual operates based on its own sensing ability and decision-making strategy. -->
-
-Inspired by the collective animal behaviors in nature, people realized that communication and collaboration together provide a solution to those grand challenges: a swarm of drones together can take care of the field; robot arms together can make more complicated operations; ground vehicles together can serve the whole warehouse; autonomous vehicles together can provide a safer driving experience. This collaboration can let the whole group together perform complex tasks beyond each individual's capabilities.
-
-<!-- We call these individuals as *agents*. Each agent can be a robot, ground vehicle, spaceship, satellite, aerial vehicle, submarine, water surface vessel, etc. -->
-
-<!-- Compared to single-agent systems, multi-agent systems (MAS) have many advantages, such as flexibility, efficiency, robustness, affordability, and improved operational capability.  -->
-<!-- We are in the hope that -->
+### Robots as a PACK
+One promising answer to this question is applying collaborative multi-agent systems. In nature, collective animal behaviors are important to defend against prey, search for food, and migrate for long distances. Inspired by the collective animal behaviors in nature, PACK lab is committed to providing solutions to current grand challenges using a swarm of drones to monitor the field and collect field data; a group of robot arms to perform complicated operations, and a collaboration of autonomous vehicles to provide a safer driving experience. These collective intelligent agents perform complex tasks beyond each individual’s capabilities.
 
 ---
 
