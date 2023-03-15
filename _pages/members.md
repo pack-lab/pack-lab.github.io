@@ -11,8 +11,8 @@ author_profile: true
 
 ### Graduate Students
 
-Hiroto Miyamura, MS, 2023 - 
-Alexander Wang, MS, 2022 - 2023
+* Hiroto Miyamura, MS, 2023 - 
+* Alexander Wang, MS, 2022 - 2023
 
 ### Undergraduate Students
 
