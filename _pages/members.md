@@ -12,7 +12,7 @@ author_profile: true
 ### Graduate Students
 
 * Jagrut Alpeshbhai Patel, MS, 2023 -
-* Hiroto Miyamura, MS, 2023 - 
+* Hiroto Miyamura, MS, 2023 -
 * Alexander Wang, MS, 2022 - 2023
 
 ### Undergraduate Students
@@ -20,7 +20,7 @@ author_profile: true
 *Engineering Honor Track (with thesis)*
 
 * Mitchell Hein, 2023 -
-* Edwin Gomez, 2023 -
+* Edwin Gomez, 2023
 * Adam Nguyen, 2022 - 2023
 * Josh Pastizzo, 2022 - 2023
 * Juan Rodríguez, 2022 - 2023
