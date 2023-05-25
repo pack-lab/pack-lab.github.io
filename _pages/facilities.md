@@ -29,6 +29,9 @@ author_profile: true
 * xArm Lite 6 (6-axis, precision: ±0.2mm)    
 * Dobot MG400 (4-axis, precision: ±0.05mm)
 
+### Industrial Robot
+* Baxter Robot
+
 ### 3D Printer
 * Qidi i-Fast
 
