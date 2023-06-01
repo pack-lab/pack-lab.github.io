@@ -20,10 +20,10 @@ author_profile: true
 *Engineering Honor Track (with thesis)*
 
 * Mitchell Hein, 2023 -
-* Edwin Gomez, 2023
-* Adam Nguyen, 2022 - 2023
-* Josh Pastizzo, 2022 - 2023
-* Juan Rodríguez, 2022 - 2023
+* Edwin Gomez, 2023, DEVELOPMENT OF SCREW DETECTION AND SCREW ORIENTATION DETECTION SYSTEM FOR SCREW UNFASTENING
+* Adam Nguyen, 2022 - 2023, AUTOMATED ROBOT ARM COORDINATION FOR OBJECT TRANSPORTATION
+* Josh Pastizzo, 2022 - 2023, ANALYSIS OF STIRRING TECHNIQUES AND THEIR IMPACT ON COOLING COFFEE THROUGH CONVECTION
+* Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
 * Israel Alvarez, 2023
