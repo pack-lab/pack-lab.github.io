@@ -4,6 +4,7 @@ title: "Members"
 permalink: /members/
 author_profile: true
 ---
+## Current members
 
 ### Principal Investigator
 
@@ -19,12 +20,23 @@ author_profile: true
 
 *Engineering Honor Track (with thesis)*
 
+* Samantha Villa Floran, 2023 -
 * Mitchell Hein, 2023 -
-* Edwin Gomez, 2023, DEVELOPMENT OF SCREW DETECTION AND SCREW ORIENTATION DETECTION SYSTEM FOR SCREW UNFASTENING
-* Adam Nguyen, 2022 - 2023, AUTOMATED ROBOT ARM COORDINATION FOR OBJECT TRANSPORTATION
-* Josh Pastizzo, 2022 - 2023, ANALYSIS OF STIRRING TECHNIQUES AND THEIR IMPACT ON COOLING COFFEE THROUGH CONVECTION
+
+
+*Other*
+* Edward Huang, 2023 -
+* Israel Alvarez, 2023 -
+
+
+## Alumni
+
+### Undergraduate Students
+*Engineering Honor Track (with thesis)*
+* Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Undastening
+* Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
+* Josh Pastizzo, 2022 - 2023, Analysis of Stirring Techniques and Their Impact on Cooling Coffee Through Convection
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
-* Israel Alvarez, 2023
 * Jocelyne Valdivia 2022 - 2023
