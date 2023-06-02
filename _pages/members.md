@@ -33,7 +33,7 @@ author_profile: true
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
-* Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Undastening
+* Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Unfastening
 * Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
 * Josh Pastizzo, 2022 - 2023, Analysis of Stirring Techniques and Their Impact on Cooling Coffee Through Convection
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
