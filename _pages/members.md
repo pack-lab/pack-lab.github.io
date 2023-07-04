@@ -12,6 +12,9 @@ author_profile: true
 
 ### Graduate Students
 
+* Jake Beadles, MS, 2023 -
+* Satyam Pathak, MS, 2023 -
+* Anurag Balakrishnan, MS, 2023 -
 * Jagrut Alpeshbhai Patel, MS, 2023 -
 * Hiroto Miyamura, MS, 2023 -
 * Alexander Wang, MS, 2022 - 2023
