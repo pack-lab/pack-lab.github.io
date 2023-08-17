@@ -12,6 +12,7 @@ author_profile: true
 
 ### Graduate Students
 
+* Srivatsa Rao, MS, 2023 -
 * Jake Beadles, MS, 2023 -
 * Satyam Pathak, MS, 2023 -
 * Anurag Balakrishnan, MS, 2023 -
@@ -26,8 +27,10 @@ author_profile: true
 * Samantha Villa Floran, 2023 -
 * Mitchell Hein, 2023 -
 
-
 *Other*
+* Michelle Lee, 2023
+* Peter Herrera, 2023 -
+* Ryan Bui, 2023 -
 * Edward Huang, 2023 -
 * Israel Alvarez, 2023 -
 
