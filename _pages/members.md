@@ -12,6 +12,7 @@ author_profile: true
 
 ### Graduate Students
 
+* Steve Maldonado Melendez, MS, 2023 -
 * Jake Beadles, MS, 2023 -
 * Satyam Pathak, MS, 2023 -
 * Anurag Balakrishnan, MS, 2023 -
@@ -26,9 +27,11 @@ author_profile: true
 * Mitchell Hein, 2023 -
 
 *Other*
-* Michelle Lee, 2023
+* Katherine Castan, 2023 - 
+* Yahaira Martinez, 2023 - 
+* Michelle Lee, 2023 -
+* Shawn Anthony, 2023 - 
 * Peter Herrera, 2023 -
-* Ryan Bui, 2023 -
 * Edward Huang, 2023 -
 * Israel Alvarez, 2023 -
 
@@ -43,4 +46,5 @@ author_profile: true
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
-* Jocelyne Valdivia 2022 - 2023
+* Ryan Bui, 2023
+* Jocelyne Valdivia 2022
