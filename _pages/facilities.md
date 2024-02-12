@@ -8,6 +8,7 @@ author_profile: true
 ### Computational Platform
 * Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RTX A4500    
 * Dell XPS Desktops: CPU: Intel i7-12700, GPU: Nvidia GeForce RTX 3090
+* Mac Studios: M2 Ultra 24-core CPU, 60-core GPU, 23-core Neural Engine, 128-GB Unified Memory
 
 ### High-Precision Optical Tracking System
 * OptiTrack 8 Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
