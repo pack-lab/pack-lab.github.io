@@ -12,10 +12,16 @@ author_profile: true
 
 ### Graduate Students
 
-* Steve Maldonado Melendez, MS, 2023 -
-* Satyam Pathak, MS, 2023 - 2024
-* Hiroto Miyamura, MS, 2023 - 2024
-* Alexander Wang, MS, 2022 - 2024
+*For thesis*
+
+* Steve Maldonado Melendez, MS, 2023 - present
+* Hiroto Miyamura, MS, 2023 - present
+* Alexander Wang, MS, 2022 - present
+
+*Non-thesis*
+
+* Ojas Rajesh Wani, MS, 2023 - present
+* Satyam Pathak, MS, 2023 - present
 
 ### Undergraduate Students
 
@@ -27,8 +33,9 @@ author_profile: true
 
 *Others*
 
-* Peter Herrera, 2023 -
-* Edward Huang, 2023 -
+* Anthony Avendano, 2024 - present
+* Peter Herrera, 2023 - present
+* Edward Huang, 2023 - present
 
 
 
@@ -36,8 +43,12 @@ author_profile: true
 
 ### Graduate Students
 
+* Satyam Sharma, MS, 2023 - 2024
 * Anurag Balakrishnan, MS, 2023 - 2024
+* Zhiying Zhang, MS, 2023
 * Jake Beadles, MS, 2023
+* Ilmaan Zia, MS, 2023
+* Jagrut Alpeshbhai Patel, MS, 2023
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
