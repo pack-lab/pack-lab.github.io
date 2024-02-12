@@ -17,6 +17,7 @@ author_profile: true
 
 ### Camera
 * RealSense Depth Cameras D435i, D455
+* ZED X Cameras
 * 4K Autofocus No-Distortion Camera Modules
 
 ### Drone Swarm
