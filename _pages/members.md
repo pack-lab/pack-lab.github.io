@@ -13,30 +13,31 @@ author_profile: true
 ### Graduate Students
 
 * Steve Maldonado Melendez, MS, 2023 -
-* Jake Beadles, MS, 2023 -
-* Satyam Pathak, MS, 2023 -
-* Anurag Balakrishnan, MS, 2023 -
-* Hiroto Miyamura, MS, 2023 -
-* Alexander Wang, MS, 2022 - 2023
+* Satyam Pathak, MS, 2023 - 2024
+* Hiroto Miyamura, MS, 2023 - 2024
+* Alexander Wang, MS, 2022 - 2024
 
 ### Undergraduate Students
 
 *Engineering Honor Track (with thesis)*
 
-* Samantha Villa Floran, 2023 -
-* Mitchell Hein, 2023 -
+* Morgan Wozniak, Human-Robot Interactions, 2024 - present
+* Samantha Villa Floran, Modeling and Control of Robots, 2023 - present
+* Mitchell Hein, Modular Robots, 2023 - present
 
-*Other*
-* Katherine Castan, 2023 - 
-* Yahaira Martinez, 2023 - 
-* Michelle Lee, 2023 -
-* Shawn Anthony, 2023 - 
+*Others*
+
 * Peter Herrera, 2023 -
 * Edward Huang, 2023 -
-* Israel Alvarez, 2023 -
+
 
 
 ## Alumni
+
+### Graduate Students
+
+* Anurag Balakrishnan, MS, 2023 - 2024
+* Jake Beadles, MS, 2023
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
@@ -46,5 +47,10 @@ author_profile: true
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
+* Katherine Castan, 2023
+* Yahaira Martinez, 2023 
+* Michelle Lee, 2023
+* Shawn Anthony, 2023 
+* Israel Alvarez, 2023
 * Ryan Bui, 2023
 * Jocelyne Valdivia 2022
