@@ -24,9 +24,6 @@ author_profile: true
 ### Drone Swarm
 * DJI Tello (16 drones)
 
-<!-- ### Ground Vehicle Fleet
-* Clearpath Robotics TurtleBot 4 Lite Robots -->
-
 ### Robot Manipulators
 * xArm Lite 6 (6-axis, precision: ±0.2mm)    
 * Dobot MG400 (4-axis, precision: ±0.05mm)
@@ -37,6 +34,3 @@ author_profile: true
 ### 3D Printer
 * Qidi i-Fast
 
-<!-- ### Parallel Robot -->
-
-<!-- ### Cart-Inverted-Pendulum -->
