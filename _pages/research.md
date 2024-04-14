@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-### Collaborative and Optimized Transportation
+## Collaborative and Optimized Transportation
 
-### Cooperative Manipulation
+## Cooperative Manipulation
+
+## Assured Autonomy
+
+## Optimal Site Selection
+
+## Human-Robot Interaction
