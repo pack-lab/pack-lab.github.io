@@ -21,7 +21,7 @@ author_profile: true
 *Non-thesis*
 
 * Ojas Rajesh Wani, MS, 2023 - present
-* Satyam Pathak, MS, 2023 - present
+
 
 ### Undergraduate Students
 
@@ -34,15 +34,13 @@ author_profile: true
 *Others*
 
 * Anthony Avendano, 2024 - present
-* Peter Herrera, 2023 - present
 * Edward Huang, 2023 - present
-
-
 
 ## Alumni
 
 ### Graduate Students
 
+* Satyam Pathak, MS, 2023 - 2024
 * Satyam Sharma, MS, 2023 - 2024
 * Anurag Balakrishnan, MS, 2023 - 2024
 * Zhiying Zhang, MS, 2023
@@ -58,6 +56,7 @@ author_profile: true
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
+* Peter Herrera, 2023 - 2024
 * Katherine Castan, 2023
 * Yahaira Martinez, 2023 
 * Michelle Lee, 2023
