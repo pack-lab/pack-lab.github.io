@@ -36,6 +36,8 @@ author_profile: true
 * Anthony Avendano, 2024 - present
 * Edward Huang, 2023 - present
 
+---
+
 ## Alumni
 
 ### Graduate Students
