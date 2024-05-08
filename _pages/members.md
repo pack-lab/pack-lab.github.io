@@ -33,9 +33,9 @@ author_profile: true
 
 *Others*
 
-Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
-Avi Jagdish, Intelligent Transportation Systems, 2024 - present
-Charles Dolph, Intelligent Transportation Systems, 2024 - present
+* Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
+* Avi Jagdish, Intelligent Transportation Systems, 2024 - present
+* Charles Dolph, Intelligent Transportation Systems, 2024 - present
 
 ---
 
