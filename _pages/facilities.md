@@ -16,10 +16,11 @@ author_profile: true
 ### High-Precision Indoor 3D Positioning System
 * Marvelmind Super-MP-3D (Accuracy: ±2cm)
 
-### Camera
+### Cameras
 * RealSense Depth Cameras D435i, D455
 * ZED X Cameras
 * 4K Autofocus No-Distortion Camera Modules
+* Unitree 4D LiDAR
 
 ### Drone Swarm
 * DJI Tello (16 drones)
