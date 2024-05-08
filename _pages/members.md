@@ -29,7 +29,6 @@ author_profile: true
 
 * Morgan Wozniak, Human-Robot Interactions, 2024 - present
 * Samantha Villa Floran, Modeling and Control of Robots, 2023 - present
-* Mitchell Hein, Modular Robots, 2023 - present
 
 *Others*
 
@@ -52,6 +51,7 @@ author_profile: true
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
+* Mitchell Hein, 2023 - 2024, PACK-4O: A Study on Modular Self-Reconfigurable Robots
 * Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Unfastening
 * Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
 * Josh Pastizzo, 2022 - 2023, Analysis of Stirring Techniques and Their Impact on Cooling Coffee Through Convection
