@@ -21,7 +21,7 @@ author_profile: true
 *Non-thesis*
 
 * Ojas Rajesh Wani, MS, 2023 - present
-
+* Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
 
 ### Undergraduate Students
 
@@ -33,7 +33,7 @@ author_profile: true
 
 *Others*
 
-* Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
+* Nam Le, Control and Planning for Rocket Systems, 2024 - present
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Charles Dolph, Intelligent Transportation Systems, 2024 - present
 
