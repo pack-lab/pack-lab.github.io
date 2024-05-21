@@ -14,13 +14,13 @@ author_profile: true
 
 *For thesis*
 
-* Steve Maldonado Melendez, MS, 2023 - present
-* Hiroto Miyamura, MS, 2023 - present
-* Alexander Wang, MS, 2022 - present
+* Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
+* Hiroto Miyamura, MS, Multi-Robot Systems, 2023 - 2024
+* Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2024
 
 *Non-thesis*
 
-* Ojas Rajesh Wani, MS, 2023 - present
+* Ojas Rajesh Wani, MS, 3D Reconstruction of Unstructured Environment, 2023 - present
 * Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
 
 ### Undergraduate Students
@@ -33,7 +33,7 @@ author_profile: true
 
 *Others*
 
-* Nam Le, Control and Planning for Rocket Systems, 2024 - present
+* Nam Le, Control and Planning for Recyclable Rocket Systems, 2024 - present
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Charles Dolph, Intelligent Transportation Systems, 2024 - present
 
