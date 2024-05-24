@@ -22,8 +22,8 @@ author_profile: true
 
 * TashrikMahmud Rahat, MS, Intelligent Transportation Systems, 2024 - present
 * Siddharth Sanat Unnithan, MS, Intelligent Transportation Systems, 2024 - present
-* Ojas Rajesh Wani, MS, 3D Reconstruction of Unstructured Environment, 2023 - present
 * Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
+* Ojas Rajesh Wani, MS, 3D Reconstruction of Unstructured Environment, 2023 - present
 
 ### Undergraduate Students
 
