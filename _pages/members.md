@@ -15,7 +15,6 @@ author_profile: true
 *For thesis*
 
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
-* Hiroto Miyamura, MS, Multi-Robot Systems, 2023 - 2024
 * Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2024
 
 *Non-thesis*
@@ -44,7 +43,10 @@ author_profile: true
 ## Alumni
 
 ### Graduate Students
+*MS with Thesis*
+* Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Domensional and Hybrid Environments with Limited Sensing Capability 
 
+*Non-thesis*
 * Satyam Pathak, MS, 2023 - 2024
 * Satyam Sharma, MS, 2023 - 2024
 * Anurag Balakrishnan, MS, 2023 - 2024
