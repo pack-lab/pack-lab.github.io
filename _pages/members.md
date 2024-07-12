@@ -44,7 +44,7 @@ author_profile: true
 
 ### Graduate Students
 *MS with Thesis*
-* Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Domensional and Hybrid Environments with Limited Sensing Capability 
+* Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
 * Satyam Pathak, MS, 2023 - 2024
