@@ -32,6 +32,13 @@ author_profile: true
 ### Industrial Robot
 * Baxter Robot
 
+### Mobile Robot
+* Quanser QBot Platform
+
+### Control Plant
+* Quanser QUBE-Servo 3
+* Quanser Aero 2
+
 ### 3D Printer
 * Qidi i-Fast
 
