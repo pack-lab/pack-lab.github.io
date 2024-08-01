@@ -19,10 +19,7 @@ author_profile: true
 
 *Non-thesis*
 
-* Tashrik Mahmud Rahat, MS, Intelligent Transportation Systems, 2024 - present
-* Siddharth Sanat Unnithan, MS, Intelligent Transportation Systems, 2024 - present
-* Jeet Vishal Patel (CSU East Bay), 3D Segmentation of Unstructured Environment, 2024 - present
-* Ojas Rajesh Wani, MS, 3D Reconstruction of Unstructured Environment, 2023 - present
+
 
 ### Undergraduate Students
 
@@ -47,6 +44,10 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
+* Tashrik Mahmud Rahat, MS, 2024
+* Siddharth Sanat Unnithan, MS, 2024
+* Jeet Vishal Patel (CSU East Bay), 2024
+* Ojas Rajesh Wani, MS, 2024
 * Satyam Pathak, MS, 2023 - 2024
 * Satyam Sharma, MS, 2023 - 2024
 * Anurag Balakrishnan, MS, 2023 - 2024
