@@ -14,6 +14,8 @@ author_profile: true
 
 *For thesis*
 
+* Ramon Becerra-Orozco, MS, Computer Vision Methods for Autonomous Robotic Manipulators, 2024 - present
+* Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
 * Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2024
 
