@@ -27,14 +27,15 @@ author_profile: true
 
 *Engineering Honor Track (with thesis)*
 
+* Noah Cisneros, Bionics-Guided Robotics Design, 2024 - present
+* Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Joely Rodriguez, Modeling and Autonomous Control of Multi-Trailer Articulated Heavy Vehicles, 2024 - present
 * Morgan Wozniak, Human-Robot Interactions, 2024 - present
 * Samantha Villa Floran, Modeling and Control of Robots, 2023 - present
 
 *Others*
 
-* Nam Le, Control and Planning for Recyclable Rocket Systems, 2024 - present
-* Avi Jagdish, Intelligent Transportation Systems, 2024 - present
+
 * Charles Dolph, Intelligent Transportation Systems, 2024 - present
 
 ---
@@ -67,6 +68,7 @@ author_profile: true
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
 
 *Other*
+* Nam Le, 2024
 * Anthony Avendano, 2024
 * Edward Huang, 2023 - 2024
 * Peter Herrera, 2023 - 2024
