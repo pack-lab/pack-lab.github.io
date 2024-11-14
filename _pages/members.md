@@ -14,6 +14,7 @@ author_profile: true
 
 *For thesis*
 
+* Long Nguyen, MS, Extraterrestrial Base Construction, 2024 - present
 * Ramon Becerra-Orozco, MS, Computer Vision Methods for Autonomous Robotic Manipulators, 2024 - present
 * Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
@@ -21,7 +22,11 @@ author_profile: true
 
 *Non-thesis*
 
-
+* Qingkai Zhang, MS, Connected Automated Vehicles, 2024 - present
+* John Hurth, MS, Bionics-Guided Robotics Design, 2024 - present
+* Caleb Cohen, MS, Autonomous Driving Systems, 2024 - present
+* Anthony Camarillo, MS, Intelligent Robotic Manipulators, 2024 - present
+* Jonathan Witkowski, MS, Intelligent Transportation Systems, 2024 - present
 
 ### Undergraduate Students
 
@@ -29,6 +34,7 @@ author_profile: true
 
 * Noah Cisneros, Bionics-Guided Robotics Design, 2024 - present
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
+* Javier Ybarra Gomez, Environmental Monitoring with Multi-Robot Systems, 2024 - present
 * Joely Rodriguez, Modeling and Autonomous Control of Multi-Trailer Articulated Heavy Vehicles, 2024 - present
 * Morgan Wozniak, Human-Robot Interactions, 2024 - present
 * Samantha Villa Floran, Modeling and Control of Robots, 2023 - present
