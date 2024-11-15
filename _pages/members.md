@@ -24,7 +24,6 @@ author_profile: true
 
 * Qingkai Zhang, MS, Connected Automated Vehicles, 2024 - present
 * John Hurth, MS, Bionics-Guided Robotics Design, 2024 - present
-* Caleb Cohen, MS, Autonomous Driving Systems, 2024 - present
 * Anthony Camarillo, MS, Intelligent Robotic Manipulators, 2024 - present
 * Jonathan Witkowski, MS, Intelligent Transportation Systems, 2024 - present
 
@@ -53,6 +52,7 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
+* Caleb Cohen, MS, 2024
 * Tashrik Mahmud Rahat, MS, 2024
 * Siddharth Sanat Unnithan, MS, 2024
 * Jeet Vishal Patel (CSU East Bay), 2024
