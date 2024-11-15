@@ -7,7 +7,7 @@ author_profile: true
 
 ## Transportation
 
-* Intelligent Transportation Infrastructure
+* [Intelligent Transportation Infrastructure](./ResearchProjects/ITI.md)
 * Connected and Automated Vehicle
 
 ## Manufacturing and Construction
