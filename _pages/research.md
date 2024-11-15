@@ -5,15 +5,30 @@ permalink: /research/
 author_profile: true
 ---
 
-## Collaborative and Optimized Transportation
+## Transportation
 
-## Cooperative Manipulation
+* Intelligent Transportation Infrastructure
+* Connected and Automated Vehicle
 
-## Assured Autonomy
+## Manufacturing and Construction
 
-## Optimal Site Selection
+* Cooperative Manipulation
+* Automated Base Construction
+
+## Decision and Control
+
+* Control Theory
+* Assured Autonomy
+* Optimal Site Selection
+* Multi-Agent Systems
+
+## Swarm Robotics
+
+* Manufacturing Systems
+* Modular Robots
 
 ## Human-Robot Interaction
 
-## Modular Robots
+* Human-Inspired Skill Acquisition
+* Robots for Healthcare
 
