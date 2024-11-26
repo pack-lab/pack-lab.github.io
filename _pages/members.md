@@ -18,14 +18,11 @@ author_profile: true
 * Ramon Becerra-Orozco, MS, Computer Vision Methods for Autonomous Robotic Manipulators, 2024 - present
 * Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
-* Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2024
+* Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2025
 
 *Non-thesis*
 
-* Qingkai Zhang, MS, Connected Automated Vehicles, 2024 - present
-* John Hurth, MS, Bionics-Guided Robotics Design, 2024 - present
 * Anthony Camarillo, MS, Intelligent Robotic Manipulators, 2024 - present
-* Jonathan Witkowski, MS, Intelligent Transportation Systems, 2024 - present
 
 ### Undergraduate Students
 
@@ -40,7 +37,6 @@ author_profile: true
 
 *Others*
 
-
 * Charles Dolph, Intelligent Transportation Systems, 2024 - present
 
 ---
@@ -52,6 +48,9 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
+* Qingkai Zhang, MS, 2024
+* John Hurth, MS, 2024
+* Jonathan Witkowski, MS, 2024
 * Caleb Cohen, MS, 2024
 * Tashrik Mahmud Rahat, MS, 2024
 * Siddharth Sanat Unnithan, MS, 2024
