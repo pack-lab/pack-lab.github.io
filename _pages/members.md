@@ -28,6 +28,7 @@ author_profile: true
 
 *Engineering Honor Track (with thesis)*
 
+* Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - present
 * Noah Cisneros, Bionics-Guided Robotics Design, 2024 - present
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Javier Ybarra Gomez, Environmental Monitoring with Multi-Robot Systems, 2024 - present
