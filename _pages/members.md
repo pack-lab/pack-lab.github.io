@@ -67,8 +67,8 @@ author_profile: true
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
-* Morgan Wozniak, Human-Robot Interactions, 2024, EXPLORING HUMAN-ROBOT INTERACTION: A REVIEW AND ANALYSIS OF CHALLENGES, METHODS, AND FUTURE DIRECTIONS
-* Samantha Villa Floran, Modeling and Control of Robots, 2023 - 2024, MuJoCo-BASED ROBOTIC MODELING: A SYSTEMATIC ANALYSIS FROM FUNDAMENTAL PRINCIPLES TO ADVANCED APPLICATIONS 
+* Morgan Wozniak, Human-Robot Interactions, 2024, Exploring Human-Robot Interaction: A Review and Analysis of Challenges, Methods, and Future Directions
+* Samantha Villa Floran, Modeling and Control of Robots, 2023 - 2024, MuJoCo-Based Robotic Modeling: A Systematic Analysis From Fundamental Principles to Advanced Applications
 * Mitchell Hein, 2023 - 2024, PACK-4O: A Study on Modular Self-Reconfigurable Robots
 * Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Unfastening
 * Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
