@@ -33,8 +33,8 @@ author_profile: true
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Javier Ybarra Gomez, Environmental Monitoring with Multi-Robot Systems, 2024 - present
 * Joely Rodriguez, Modeling and Autonomous Control of Multi-Trailer Articulated Heavy Vehicles, 2024 - present
-* Morgan Wozniak, Human-Robot Interactions, 2024 - present
-* Samantha Villa Floran, Modeling and Control of Robots, 2023 - present
+
+
 
 *Others*
 
@@ -67,6 +67,8 @@ author_profile: true
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
+* Morgan Wozniak, Human-Robot Interactions, 2024, EXPLORING HUMAN-ROBOT INTERACTION: A REVIEW AND ANALYSIS OF CHALLENGES, METHODS, AND FUTURE DIRECTIONS
+* Samantha Villa Floran, Modeling and Control of Robots, 2023 - 2024, MuJoCo-BASED ROBOTIC MODELING: A SYSTEMATIC ANALYSIS FROM FUNDAMENTAL PRINCIPLES TO ADVANCED APPLICATIONS 
 * Mitchell Hein, 2023 - 2024, PACK-4O: A Study on Modular Self-Reconfigurable Robots
 * Edwin Gomez, 2023, Development of Screw Detection and Screw Orientation Detection System for Screw Unfastening
 * Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
