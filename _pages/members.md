@@ -58,7 +58,7 @@ author_profile: true
 * Satyam Pathak, MS, 2023 - 2024
 * Satyam Sharma, MS, 2023 - 2024
 * Anurag Balakrishnan, MS, 2023 - 2024
-* Zhangying He, MS, 2023
+* Zhangying (Mandy) He, MS, 2023
 * Jake Beadles, MS, 2023
 * Ilmaan Zia, MS, 2023
 * Jagrut Alpeshbhai Patel, MS, 2023
