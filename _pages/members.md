@@ -14,6 +14,7 @@ author_profile: true
 
 *For thesis*
 
+* John Hurth, MS, Bionics-Inspired Structure Design, 2024 - present
 * Ramon Becerra-Orozco, MS, Computer Vision Methods for Autonomous Robotic Manipulators, 2024 - present
 * Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
@@ -22,7 +23,7 @@ author_profile: true
 *Non-thesis*
 
 * Anthony Camarillo, MS, Intelligent Robotic Manipulators, 2024 - present
-* Long Nguyen, MS, Extraterrestrial Base Construction, 2024 - 2025
+
 
 ### Undergraduate Students
 
@@ -34,9 +35,13 @@ author_profile: true
 * Javier Ybarra Gomez, Environmental Monitoring with Multi-Robot Systems, 2024 - present
 * Joely Rodriguez, Modeling and Autonomous Control of Multi-Trailer Articulated Heavy Vehicles, 2024 - present
 
-*Others*
+*Special Problems (Undergraduate Research Program)*
 
-* Charles Dolph, Intelligent Transportation Systems, 2024 - present
+* Derrick Pham, Mechanical, Electrical, and Software Design of a Steward Platform, 2025 
+
+<!-- *Others* -->
+
+<!-- N/A -->
 
 ---
 
@@ -48,7 +53,7 @@ author_profile: true
 
 *Non-thesis*
 * Qingkai Zhang, MS, 2024
-* John Hurth, MS, 2024
+* Long Nguyen, MS, 2024
 * Jonathan Witkowski, MS, 2024
 * Caleb Cohen, MS, 2024
 * Tashrik Mahmud Rahat, MS, 2024
@@ -72,6 +77,11 @@ author_profile: true
 * Adam Nguyen, 2022 - 2023, Automated Robot Arm Coordination for Object Transportation
 * Josh Pastizzo, 2022 - 2023, Analysis of Stirring Techniques and Their Impact on Cooling Coffee Through Convection
 * Juan Rodríguez, 2022 - 2023, Recyclable Rocket Modeling and Control in Complex Weather Conditions
+
+*Special Problems (Undergraduate Research Program)*
+
+* Charles Dolph, 2024, Intelligent Transportation Systems
+
 
 *Other*
 * Nam Le, 2024
