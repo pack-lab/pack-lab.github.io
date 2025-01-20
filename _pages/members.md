@@ -37,7 +37,7 @@ author_profile: true
 
 *Special Problems (Undergraduate Research Program)*
 
-* Derrick Pham, Mechanical, Electrical, and Software Design of a Steward Platform, 2025 
+* Derrick Pham, Design and Test of a Steward Platform, 2025 
 
 <!-- *Others* -->
 
@@ -52,7 +52,7 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
-* Qingkai Zhang, MS, 2024
+* Qingkai Zhang, MS, 2024 - 2025
 * Long Nguyen, MS, 2024
 * Jonathan Witkowski, MS, 2024
 * Caleb Cohen, MS, 2024
