@@ -30,7 +30,7 @@ author_profile: true
 *Engineering Honor Track (with thesis)*
 
 * Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - present
-* Noah Cisneros, Bionics-Guided Robotics Design, 2024 - present
+* Noah Cisneros, Bionics-Guided Robot Design, 2024 - present
 * Avi Jagdish, Intelligent Transportation Systems, 2024 - present
 * Javier Ybarra Gomez, Environmental Monitoring with Multi-Robot Systems, 2024 - present
 * Joely Rodriguez, Modeling and Autonomous Control of Multi-Trailer Articulated Heavy Vehicles, 2024 - present
@@ -38,6 +38,7 @@ author_profile: true
 *Special Problems (Undergraduate Research Program)*
 
 * Derrick Pham, Design and Test of a Steward Platform, 2025 
+* Kaylee Gunn, Bionics-Guided Robot Design, 2025
 
 <!-- *Others* -->
 
