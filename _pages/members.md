@@ -18,7 +18,6 @@ author_profile: true
 * Ramon Becerra-Orozco, MS, Computer Vision Methods for Autonomous Robotic Manipulators, 2024 - present
 * Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
-* Alexander Wang, MS, Data-Driven Modeling and Learning-Based Control of Nonlinear Systems, 2022 - 2025
 
 *Non-thesis*
 
@@ -40,7 +39,10 @@ author_profile: true
 * Derrick Pham, Design and Test of a Steward Platform, 2025 
 * Kaylee Gunn, Bionics-Guided Robot Design, 2025
 
-<!-- *Others* -->
+### High School Students
+
+* Alistair Wu, Intelligent Transportation Systems, 2024 - present
+
 
 <!-- N/A -->
 
@@ -55,11 +57,13 @@ author_profile: true
 *Non-thesis*
 * Qingkai Zhang, MS, 2024 - 2025
 * Long Nguyen, MS, 2024
+* Tin Nguyen, 2024
 * Jonathan Witkowski, MS, 2024
 * Caleb Cohen, MS, 2024
 * Tashrik Mahmud Rahat, MS, 2024
 * Siddharth Sanat Unnithan, MS, 2024
-* Jeet Vishal Patel (CSU East Bay), 2024
+* Ojasvi Sharma, MS, 2024
+* Jeet Vishal Patel (CSU East Bay), MS, 2024
 * Ojas Rajesh Wani, MS, 2024
 * Satyam Pathak, MS, 2023 - 2024
 * Satyam Sharma, MS, 2023 - 2024
@@ -68,6 +72,7 @@ author_profile: true
 * Jake Beadles, MS, 2023
 * Ilmaan Zia, MS, 2023
 * Jagrut Alpeshbhai Patel, MS, 2023
+* Alexander Wang, MS, 2022 - 2025
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
