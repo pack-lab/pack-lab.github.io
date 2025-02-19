@@ -7,7 +7,7 @@ author_profile: true
 
 ### Computational Platform
 * Dell Precision 7920 Tower: CPU: Dual Intel Xeon Silver 4216, GPU: Dual Nvidia RTX A4500    
-* Dell XPS Desktops: CPU: Intel i7-12700, GPU: Nvidia GeForce RTX 3090
+* Dell Desktops: CPU: Intel i7-12700/i7-14700, GPU: Nvidia GeForce RTX 3090/4060
 * Mac Studios: M2 Ultra 24-core CPU, 60-core GPU, 32-core Neural Engine, 128-GB Unified Memory
 
 ### High-Precision Optical Tracking System
@@ -33,7 +33,7 @@ author_profile: true
 * Baxter Robot
 
 ### Mobile Robot
-* Quanser QBot Platform
+* Quanser QBot
 
 ### Control Plant
 * Quanser QUBE-Servo 3
