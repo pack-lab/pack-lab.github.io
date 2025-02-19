@@ -11,7 +11,7 @@ author_profile: true
 * Mac Studios: M2 Ultra 24-core CPU, 60-core GPU, 32-core Neural Engine, 128-GB Unified Memory
 
 ### High-Precision Optical Tracking System
-* OptiTrack 8 Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
+* OptiTrack Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
 
 ### High-Precision Indoor 3D Positioning System
 * Marvelmind Super-MP-3D (Accuracy: ±2cm)
