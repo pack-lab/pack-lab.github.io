@@ -35,6 +35,7 @@ author_profile: true
 
 *Special Problems (Undergraduate Research Program)*
 
+* Keaton Safu, Freight Modeling and Management, 2025 
 * Derrick Pham, Design and Test of a Steward Platform, 2025 
 * Kaylee Gunn, Bionics-Guided Robot Design, 2025
 
