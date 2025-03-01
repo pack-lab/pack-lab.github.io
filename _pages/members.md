@@ -4,7 +4,7 @@ title: "Members"
 permalink: /members/
 author_profile: true
 ---
-## Current members
+## Current Members
 
 ### Principal Investigator
 
