@@ -40,6 +40,10 @@ author_profile: true
 * Derrick Pham, Design and Test of a Steward Platform, 2025 
 * Kaylee Gunn, Bionics-Guided Robot Design, 2025
 
+*Other*
+
+Alondra Ochoa, Intelligent Transportation Systems, 2025 - present
+
 ### High School Students
 
 * Alistair Wu, Intelligent Transportation Systems, 2024 - present
