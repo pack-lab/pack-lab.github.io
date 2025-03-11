@@ -42,7 +42,7 @@ author_profile: true
 
 *Other*
 
-Alondra Ochoa, Intelligent Transportation Systems, 2025 - present
+* Alondra Ochoa, Intelligent Transportation Systems, 2025 - present
 
 ### High School Students
 
