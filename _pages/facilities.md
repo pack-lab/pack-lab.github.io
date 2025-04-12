@@ -25,6 +25,12 @@ author_profile: true
 ### Drone Swarm
 * DJI Tello (16 drones)
 
+### Quanser Autonomous Vehicles Research Studio
+* Quanser QDrones (8 drones)
+
+### Quanser Self-Driving Car Studio
+* Quanser QCars (8 cars)
+
 ### Robot Manipulators
 * xArm Lite 6 (6-axis, precision: ±0.2mm)    
 * Dobot MG400 (4-axis, precision: ±0.05mm)
