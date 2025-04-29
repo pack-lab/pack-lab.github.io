@@ -28,7 +28,7 @@ One promising answer to this question is applying collaborative multi-agent syst
 ---
 
 ### Location
-ECS-215A, California State University, Long Beach
+ECS-215A (space for modeling, simulation, and computation) and EN3-108 (space for experiment), California State University, Long Beach
 
 ---
 
