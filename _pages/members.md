@@ -82,6 +82,9 @@ author_profile: true
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
+* Avi Jagdish, Synthetic Dataset Creation for Visual Relationship Detection Between Components in a Manufacturing Environment
+* Joely M. Rodriguez, Implementation of Crash Detection Systems on Heavy-Duty Vehicles
+* Javier Ybarra Gomez, 2025, An Automated Domestic Water Pipeline Monitoring and Alarm System for Environmental Justice
 * Morgan Wozniak, 2024, Exploring Human-Robot Interaction: A Review and Analysis of Challenges, Methods, and Future Directions
 * Samantha Villa Floran, 2023 - 2024, MuJoCo-Based Robotic Modeling: A Systematic Analysis From Fundamental Principles to Advanced Applications
 * Mitchell Hein, 2023 - 2024, PACK-4O: A Study on Modular Self-Reconfigurable Robots
