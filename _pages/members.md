@@ -16,7 +16,6 @@ author_profile: true
 *For thesis*
 
 * John Hurth, MS, Bionics-Inspired Structure Design, 2024 - present
-* Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - present
 * Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
 
 *Non-thesis*
@@ -60,6 +59,7 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
+* Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - 2025
 * Ramon Becerra-Orozco, MS, 2024 - 2025
 * Qingkai Zhang, MS, 2024 - 2025
 * Long Nguyen, MS, 2024
