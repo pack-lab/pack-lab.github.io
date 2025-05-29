@@ -20,25 +20,24 @@ author_profile: true
 
 *Non-thesis*
 
-* Anthony Camarillo, MS, Intelligent Robotic Manipulators, 2024 - present
+N/A
 
 
 ### Undergraduate Students
 
 *Engineering Honor Track (with thesis)*
 
+* Jordan Strand, Human-Robot Interaction, 2025 - present
 * Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - present
 * Noah Cisneros, Bionics-Guided Robot Design, 2024 - present
 
 *Special Problems (Undergraduate Research Program)*
 
-* Keaton Safu, Freight Modeling and Management, 2025 
-* Derrick Pham, Design and Test of a Steward Platform, 2025 
-* Kaylee Gunn, Bionics-Guided Robot Design, 2025
+N/A
 
 *Other*
 
-* Alondra Ochoa, Intelligent Transportation Systems, 2025 - present
+N/A
 
 ### High School Students
 
@@ -56,7 +55,8 @@ author_profile: true
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
-* Gerald Thirunavukkarasu, MS, Fully Automated Additive Manufacturing Process, 2024 - 2025
+* Anthony Camarillo, MS, 2024 - 2025
+* Gerald Thirunavukkarasu, MS, 2024 - 2025
 * Ramon Becerra-Orozco, MS, 2024 - 2025
 * Qingkai Zhang, MS, 2024 - 2025
 * Long Nguyen, MS, 2024
@@ -92,10 +92,14 @@ author_profile: true
 
 *Special Problems (Undergraduate Research Program)*
 
+* Keaton Safu, 2025, Freight Modeling and Management
+* Derrick Pham, 2025, Design and Test of a Steward Platform
+* Kaylee Gunn, 2025, Bionics-Guided Robot Design
 * Charles Dolph, 2024, Intelligent Transportation Systems
 
 
 *Other*
+* Alondra Ochoa, 2025
 * Nam Le, 2024
 * Anthony Avendano, 2024
 * Edward Huang, 2023 - 2024
