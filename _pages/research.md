@@ -9,6 +9,7 @@ author_profile: true
 
 * [Intelligent Transportation Infrastructure](./ResearchProjects/ITI.md)
 * Connected and Automated Vehicle
+* Last-mile Delivery
 
 ## Manufacturing and Construction
 
@@ -26,6 +27,8 @@ author_profile: true
 
 * Manufacturing Systems
 * Modular Robots
+* Wildfire Monitoring
+* Water Monitoring
 
 ## Human-Robot Interaction
 
