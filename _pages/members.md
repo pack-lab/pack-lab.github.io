@@ -27,6 +27,7 @@ N/A
 
 *Engineering Honor Track (with thesis)*
 
+* Thanh Trung Truong, Bio-inspired Drone Design, 2025 - present
 * Jordan Strand, Human-Robot Interaction, 2025 - present
 * Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - present
 * Noah Cisneros, Bionics-Guided Robot Design, 2024 - present
