@@ -28,9 +28,9 @@ N/A
 *Engineering Honor Track (with thesis)*
 
 * Thanh Trung Truong, Bio-inspired Drone Design, 2025 - present
-* Jordan Strand, Human-Robot Interaction, 2025 - present
-* Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - present
-* Noah Cisneros, Bionics-Guided Robot Design, 2024 - present
+* Jordan Strand, Human-Robot Interaction, 2025 - 2026
+* Madeleine Lavi, Cooperative Robotic Manipulators, 2024 - 2025
+* Noah Cisneros, Bionics-Guided Robot Design, 2024 - 2025
 
 *Special Problems (Undergraduate Research Program)*
 
@@ -38,7 +38,10 @@ N/A
 
 *Other*
 
-N/A
+* Nobuki Shiohama, 2025 - present 
+* Edwin Moreno, 2025 - present 
+* Ayden Smith, 2025 - present 
+* Caleb Anthony, 2025 - present 
 
 ### High School Students
 
