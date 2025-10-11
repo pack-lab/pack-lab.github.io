@@ -20,7 +20,7 @@ author_profile: true
 
 *Non-thesis*
 
-N/A
+* Anthony Martinez, MS, 2025 - 2026
 
 
 ### Undergraduate Students
@@ -38,10 +38,10 @@ N/A
 
 *Other*
 
-* Nobuki Shiohama, 2025 - present 
-* Edwin Moreno, 2025 - present 
-* Ayden Smith, 2025 - present 
-* Caleb Anthony, 2025 - present 
+* Nobuki Shiohama, Bio-inspired Underwater Vehicle Design, 2025 - present 
+* Edwin Moreno, Bio-inspired Underwater Vehicle Design, 2025 - present 
+* Ayden Smith, Bio-inspired Underwater Vehicle Design, 2025 - present 
+* Caleb Anthony, Truss Climber, 2025 - present 
 
 ### High School Students
 
