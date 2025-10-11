@@ -30,5 +30,11 @@ author_profile: true
 ## Human-Robot Interaction
 
 * Human-Inspired Skill Acquisition
-* Robots for Healthcare
+
+## Bio-inspired Robots
+
+* Fish
+* Bird
+* Cat 
+
 
