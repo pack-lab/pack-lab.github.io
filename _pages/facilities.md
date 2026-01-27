@@ -5,6 +5,9 @@ permalink: /facilities/
 author_profile: true
 ---
 
+### Testing Facility
+* [Drone Cage](): 7.2 m x 7.2 m x 4 m, with 12 OptiTrack Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
+
 ### Computational Platform
 * Dell Precision 7920 Tower: CPU: Intel Xeon Silver 4216, GPU: Nvidia RTX A4500    
 * Dell Desktops: CPU: Intel i7-12700/i7-14700, GPU: Nvidia GeForce RTX 3090/4060
@@ -12,6 +15,8 @@ author_profile: true
 
 ### High-Precision Optical Tracking System
 * OptiTrack Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
+  * 12-camera system
+  * 8-camera system
 
 ### High-Precision Indoor 3D Positioning System
 * Marvelmind Super-MP-3D (Accuracy: ±2cm)
