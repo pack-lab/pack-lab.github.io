@@ -15,11 +15,11 @@ author_profile: true
 
 * Cooperative Manipulation
 * Automated Base Construction
+* Lights-out Factory
 
 ## Decision and Control
 
 * Control Theory
-* Assured Autonomy
 * Optimal Site Selection
 * Multi-Agent Systems
 
@@ -33,6 +33,7 @@ author_profile: true
 ## Human-Robot Interaction
 
 * Human-Inspired Skill Acquisition
+* Robots as Cure
 
 ## Bio-inspired Robots
 
