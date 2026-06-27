@@ -27,11 +27,7 @@ To support research in complex control laws and multi-agent systems, the arena i
 | **Sampling Rate** | 120 FPS |
 | **Latency** | Sub-millisecond data streaming |
 
-This system provides "ground truth" state estimation for vehicles in real-time. The high frame rate and sub-millimeter accuracy are critical for:
-
-* **Aggressive Maneuvers:** Tracking high-speed trajectories without losing marker lock.
-* **Swarm Robotics:** Monitoring the relative positions of multiple agents simultaneously.
-* **System Identification:** Capturing fine-grained vibrational and aerodynamic data for model validation.
+This system provides "ground truth" state estimation for vehicles in real-time. 
 
 ---
 
