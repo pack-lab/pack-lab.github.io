@@ -17,11 +17,10 @@ author_profile: true
 
 * Gerald Thirunavukkarasu, MS, 2024 - present
 * John Hurth, MS, Bionics-Inspired Structure Design, 2024 - present
-* Steve Maldonado Melendez, MS, Data-Driven Methods for Nonlinear System Control, 2023 - present
 
 *Non-thesis*
 
-* Anthony Martinez, MS, 2025 - 2026
+N/A
 
 
 ### Undergraduate Students
@@ -29,7 +28,6 @@ author_profile: true
 *Engineering Honor Track (with thesis)*
 
 * Thanh Trung Truong, Bio-inspired Drone Design, 2025 - present
-* Jordan Strand, Human-Robot Interaction, 2025 - 2026
 
 
 *Special Problems (Undergraduate Research Program)*
@@ -45,6 +43,7 @@ N/A
 
 ### High School Students
 
+* Austin Li, Fully Automated Manufacturing, 2026 - present
 * Alistair Wu, Intelligent Transportation Systems, 2024 - present
 
 
@@ -56,9 +55,11 @@ N/A
 
 ### Graduate Students
 *MS with Thesis*
+* Steve Maldonado Melendez, 2023 - 2026, Towards Generalized Immunity Against Perturbations Through Unified Adaptive Estimation–Control Architectures
 * Hiroto Miyamura, 2023 - 2024, Multi-Agent Cooperative Coverage Control in Mixed-Dimensional and Hybrid Environments with Limited Sensing Capability 
 
 *Non-thesis*
+* Anthony Martinez, MS, 2025 - 2026
 * Anthony Camarillo, MS, 2024 - 2025
 * Ramon Becerra-Orozco, MS, 2024 - 2025
 * Qingkai Zhang, MS, 2024 - 2025
@@ -82,6 +83,7 @@ N/A
 
 ### Undergraduate Students
 *Engineering Honor Track (with thesis)*
+* Jordan Strand, 2025 - 2026
 * Madeleine Lavi, 2024 - 2025
 * Noah Cisneros, 2024 - 2025
 * Avi Jagdish, 2024 - 2025, Synthetic Dataset Creation for Visual Relationship Detection Between Components in a Manufacturing Environment
