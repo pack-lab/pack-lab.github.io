@@ -12,6 +12,7 @@ author_profile: true
 * Dell Precision 7920 Tower: CPU: Intel Xeon Silver 4216, GPU: Nvidia RTX A4500    
 * Dell Desktops: CPU: Intel i7-12700/i7-14700, GPU: Nvidia GeForce RTX 3090/4060
 * Mac Studios: M2 Ultra 24-core CPU, 60-core GPU, 32-core Neural Engine, 128-GB Unified Memory
+* HPC Nodes: Intel Xeon E5-2680 CPUs (28-core), GPU: NVIDIA GeForce RTX 2080 Ti (x4), RAM: 512 GB each
 
 ### High-Precision Optical Tracking System
 * OptiTrack Flex 13 Cameras (Accuracy: ±0.5mm, frame rate: 120 FPS)
@@ -37,8 +38,8 @@ author_profile: true
 * Quanser QCars (8 cars)
 
 ### Robot Manipulators
-* xArm Lite 6 (6-axis, precision: ±0.2mm)    
-* Dobot MG400 (4-axis, precision: ±0.05mm)
+* UFactory Lite 6 (5 manipulators, 6-axis, repeatability: ±0.2mm, with Intel RealSense D435i stereo camera)    
+* Dobot MG400 (2 manipulators, 4-axis, repeatability: ±0.05mm, with soft gripper kit)
 
 ### Industrial Robot
 * Baxter Robot
@@ -47,8 +48,8 @@ author_profile: true
 * Quanser QBot
 
 ### Control Plant
-* Quanser QUBE-Servo 3
-* Quanser Aero 2
+* Quanser QUBE-Servo 3 (6 units)
+* Quanser Aero 2 (4 units)
 
 ### 3D Printer
 * Qidi i-Fast
