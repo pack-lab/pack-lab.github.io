@@ -31,14 +31,14 @@ This system provides "ground truth" state estimation for vehicles in real-time.
 
 ---
 
-### **Research Applications**
+<!-- ### **Research Applications**
 
 Our facility is currently utilized for projects involving:
 
 * **Vision-Based Navigation:** Testing VLM and SLAM algorithms against high-fidelity ground truth.
 * **Distributed Control:** Validating multi-agent consensus and formation flight.
 * **Human-Robot Interaction:** Safe testing of collaborative robotics in a shared workspace.
-
+ -->
 
 ![alt text](/images/Lab-108.jpg "Drone Cage")
 
