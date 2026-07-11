@@ -30,21 +30,11 @@ N/A
 * Thanh Trung Truong, Bio-inspired Drone Design, 2025 - present
 
 
-*Special Problems (Undergraduate Research Program)*
+<!-- *Special Problems (Undergraduate Research Program)* -->
 
-N/A
+<!-- N/A -->
 
-*Other*
-
-* Nobuki Shiohama, Bio-inspired Underwater Vehicle Design, 2025 - present 
-* Edwin Moreno, Bio-inspired Underwater Vehicle Design, 2025 - present 
-* Ayden Smith, Bio-inspired Underwater Vehicle Design, 2025 - present 
-* Caleb Anthony, Truss Climber, 2025 - present 
-
-### High School Students
-
-* Austin Li, Fully Automated Manufacturing, 2026 - present
-* Alistair Wu, Intelligent Transportation Systems, 2024 - present
+<!-- *Other* -->
 
 
 <!-- N/A -->
@@ -106,6 +96,10 @@ N/A
 
 
 *Other*
+* Nobuki Shiohama, Bio-inspired Underwater Vehicle Design, 2025 - 2026 
+* Edwin Moreno, Bio-inspired Underwater Vehicle Design, 2025 - 2026 
+* Ayden Smith, Bio-inspired Underwater Vehicle Design, 2025 - 2026 
+* Caleb Anthony, Truss Climber, 2025 - 2026
 * Alondra Ochoa, 2025
 * Nam Le, 2024
 * Anthony Avendano, 2024
@@ -118,3 +112,8 @@ N/A
 * Israel Alvarez, 2023
 * Ryan Bui, 2023
 * Jocelyne Valdivia 2022
+
+### High School Students
+
+* Austin Li, Fully Automated Manufacturing, 2026
+* Alistair Wu, Intelligent Transportation Systems, 2024 - 2026
