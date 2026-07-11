@@ -21,7 +21,6 @@ author_profile: true
 ## Decision and Control
 
 * Control Theory
-* Optimal Site Selection
 * Multi-Agent Systems
 
 ## Swarm Robotics
@@ -30,15 +29,15 @@ author_profile: true
 * Modular Robots
 * Environmental Monitoring (wildfire, water body, pipeline)
 
-## Human-Robot Interaction
+<!-- ## Human-Robot Interaction
 
 * Human-Inspired Skill Acquisition
-* Robots as Cure
+* Robots as Cure -->
 
-## Bio-inspired Robots
+<!-- ## Bio-inspired Robots
 
 * Fish
 * Bird
-* Cat 
+* Cat  -->
 
 
