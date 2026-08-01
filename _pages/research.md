@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+## Decision and Control
+
+* Control Theory
+* Multi-Agent Systems
+
 ## Transportation
 
 * Intelligent Transportation Infrastructure
@@ -18,10 +23,6 @@ author_profile: true
 * Automated Base Construction
 * Lights-out Factory
 
-## Decision and Control
-
-* Control Theory
-* Multi-Agent Systems
 
 ## Swarm Robotics
 
