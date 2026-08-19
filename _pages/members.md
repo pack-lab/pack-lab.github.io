@@ -27,6 +27,8 @@ N/A
 
 *Engineering Honor Track (with thesis)*
 
+* Jacob Johnson, Control of Blended Wing Body Aircrafts, 2026 - present
+* Michelle Herrera-Cuen, A Universal No-Code Ecosystem for Modular Robotics, 2026 - present
 * Thanh Trung Truong, Bio-inspired Drone Design, 2025 - present
 
 
